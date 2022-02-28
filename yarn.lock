@@ -8559,12 +8559,10 @@ react-addons-shallow-compare@15.6.2:
     fbjs "^0.8.4"
     object-assign "^4.1.0"
 
-react-countdown-circle-timer@^2.5.4:
-  version "2.5.4"
-  resolved "https://registry.yarnpkg.com/react-countdown-circle-timer/-/react-countdown-circle-timer-2.5.4.tgz#95cb58e5e734deffd9087a13279d8924463cc239"
-  integrity sha512-nKGlpS6UzfWI+k66ZVYAjcZZbZeCJuB1Xkcdci+6De1KghHfs5IwjMCdAAcZP1n1m3+tyuhLF+GVB8FRmh27RQ==
-  dependencies:
-    use-elapsed-time "2.1.8"
+react-countdown-circle-timer@^3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/react-countdown-circle-timer/-/react-countdown-circle-timer-3.0.8.tgz#18992440c2cc39be3bfe08a6802ae522b9852a77"
+  integrity sha512-4aPcgQyInHcmrZ/8j5lPhV+wTp1e/Kqy6YcGex3sFxMjugNTVkTT9TlM+HQqYna786ZCbu9eiUU/QIjYME0VxA==
 
 react-devtools-core@^4.6.0:
   version "4.13.0"
@@ -10714,11 +10712,6 @@ url-parse@^1.4.7:
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
-
-use-elapsed-time@2.1.8:
-  version "2.1.8"
-  resolved "https://registry.yarnpkg.com/use-elapsed-time/-/use-elapsed-time-2.1.8.tgz#3c830ae730e2bc204f2294b66be15580f0016ea5"
-  integrity sha512-lNLTDffKHdHWweQNvnch9tFI2eRP3tXccSLrwE7U6xrfyWFNEgNQZWWsGhQvtwKa0kJ6L+7E5wKbi3jg86opjg==
 
 use-subscription@^1.0.0:
   version "1.5.1"
