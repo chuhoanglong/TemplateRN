@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "769042790963",
+    "project_id": "dcstore",
+    "storage_bucket": "dcstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769042790963:android:d57705f742104973094146",
+        "android_client_info": {
+          "package_name": "com.drcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769042790963-47p9skvpkb3tvc388d04f724u164ug82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drcare",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "769042790963-94hj79aeph04i1gjhqkc67pknsg3f5sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbc4vZyHS7XOH7b8KGYuZqKnILMSndrW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769042790963-94hj79aeph04i1gjhqkc67pknsg3f5sk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769042790963-a083qm393767utfehmad9q0qeidravrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.drcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

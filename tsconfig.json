@@ -1,0 +1,76 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "lib": ["es2017"],
+    "allowJs": true,
+    "jsx": "react-native",
+    "noEmit": true,
+    "isolatedModules": true,
+    "strict": true, // enable it to use fully Typescript set of invasive rules
+    "allowSyntheticDefaultImports": true, // Allow default imports from modules with no default export
+    "declaration": true, // Generate corresponding .d.ts file
+    "esModuleInterop": true,
+    "experimentalDecorators": true, // Enables experimental support for ES decorators
+    "forceConsistentCasingInFileNames": true, // Disallow inconsistently-cased references to the same file.
+
+    "moduleResolution": "node",
+
+    "noFallthroughCasesInSwitch": true, // Report errors for fallthrough cases in switch statement
+    "noImplicitAny": true, // set to true to be explicit and declare all types now
+    "noUnusedLocals": true, // Report errors on unused locals
+    "noUnusedParameters": true, // Report errors on unused parameters
+    "resolveJsonModule": true,
+    "skipLibCheck": true, // Skip type checking of all declaration files
+
+    "baseUrl": ".",
+      "paths": {
+        "@*": ["src/*"],
+        "@assets/*": [
+          "src/assets/*"
+        ],
+        "@components/*": [
+          "src/components/*"
+        ],
+        "@hook/*": [
+          "src/hook/*"
+        ],
+        "@provider/*": [
+          "src/provider/*"
+        ],
+        "@tools/*": [
+          "src/tools/*"
+        ],
+        "@i18n/*": [
+          "src/i18n/*"
+        ],
+        "@redux/*": [
+          "src/redux/*"
+        ],
+        "@routes/*": [
+          "src/routes/*"
+        ],
+        "@scenes/*": [
+          "src/scenes/*"
+        ],
+        "@services/*": [
+          "src/services/*"
+        ],
+        "@theme/*": [
+          "src/theme/*"
+        ],
+        "@utils/*": [
+          "src/utils/*"
+        ],
+        "@env": [
+          "src/env.js"
+        ]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js"
+  ]
+}

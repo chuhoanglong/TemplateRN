@@ -1,0 +1,11 @@
+import { PayloadAction } from '@reduxjs/toolkit';
+import { call, CallEffect, ForkEffect, put, PutEffect, takeLatest } from 'redux-saga/effects';
+import isEmpty from 'lodash/isEmpty';
+import * as {{properCase name}}API from './apiCall';
+import { callSafe } from '@redux/rootSaga';
+
+function* {{camelCase name}}Saga(): Generator<ForkEffect<never>, void> {
+
+}
+
+export default {{camelCase name}}Saga;
