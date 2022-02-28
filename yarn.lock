@@ -1780,10 +1780,10 @@
     "@types/react" "*"
     "@types/react-native" "*"
 
-"@types/react-native-fbsdk@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/@types/react-native-fbsdk/-/react-native-fbsdk-3.0.1.tgz"
-  integrity sha512-e7wDnT/64bFv8w16xHGpW2SEhE3N08pCIIRLVFpRttBucfYmAbWohNtovoEfKIr3VgSsldy0xdfJZdIyhsWC+A==
+"@types/react-native-fbsdk@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/react-native-fbsdk/-/react-native-fbsdk-3.0.2.tgz#25a61ad55b713a6284dbfe56497029c0ed1ff639"
+  integrity sha512-1Y4MYIQ5Kg0qxz25KFOl8d4p2oHdTm7ad7e6za4nBuFOmMOaKrhJeK3f/eG17zQ37yFMZpd7vf35DeEZckH+Mg==
   dependencies:
     "@types/react" "*"
     "@types/react-native" "*"
