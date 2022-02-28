@@ -117,7 +117,7 @@
     "@react-native-community/eslint-config": "^2.0.0",
     "@react-native-community/eslint-plugin": "^1.1.0",
     "@types/color": "^3.0.2",
-    "@types/jest": "^26.0.23",
+    "@types/jest": "^27.4.1",
     "@types/node": "15.12.1",
     "@types/react": "17.0.9",
     "@types/react-native": "0.64.10",
