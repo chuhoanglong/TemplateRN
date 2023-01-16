@@ -8640,10 +8640,10 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
-react-native-config@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.npmjs.org/react-native-config/-/react-native-config-1.4.3.tgz"
-  integrity sha512-KcrlImtkrANeYMT5VM3NaXO5+nyxZkY42CVW8FCHThVqLa5xkNwQJSn8RXu+pNn5WpUatxYgUTP5ZqUpA4/ZKQ==
+react-native-config@^1.4.12:
+  version "1.4.12"
+  resolved "https://registry.yarnpkg.com/react-native-config/-/react-native-config-1.4.12.tgz#405099d2dda9b4f15fcd53b0468749cbc5d1dc77"
+  integrity sha512-/KN5Vh3dtef0hTa/fV6cM91lLLwf0E4WRZBPQZCdH4VbYOqi88k0pF7nDAcN2NnDiu/3SabdmCP7vwB+rlJtuQ==
 
 react-native-countdown-component@^2.7.1:
   version "2.7.1"
